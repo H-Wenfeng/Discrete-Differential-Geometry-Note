@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 445.5
   },
   "right": {
     "id": "1dffd39ea692dbf7",
@@ -156,19 +156,20 @@
   },
   "active": "baf9d05187dc536f",
   "lastOpenFiles": [
+    "Discrete Differential Geometry/Pasted image 20230710160359.png",
+    "Discrete Differential Geometry/Pasted image 20230710160210.png",
+    "Discrete Differential Geometry/Pasted image 20230710160046.png",
+    "Discrete Differential Geometry/Pasted image 20230710155923.png",
+    "Discrete Differential Geometry/Pasted image 20230710155632.png",
+    "Discrete Differential Geometry/Pasted image 20230710155444.png",
+    "Discrete Differential Geometry/Pasted image 20230710154408.png",
+    "Discrete Differential Geometry/Pasted image 20230710154241.png",
+    "Discrete Differential Geometry/Pasted image 20230709104704.png",
+    "Discrete Differential Geometry/Pasted image 20230709104542.png",
+    "未命名.md",
+    "Discrete Differential Geometry/Lecture 01.md",
     "Discrete-Differential-Geometry-Notes",
     "Pasted image 20230710160359.png",
-    "Pasted image 20230710160210.png",
-    "Pasted image 20230710160046.png",
-    "Pasted image 20230710155923.png",
-    "Pasted image 20230710155632.png",
-    "Pasted image 20230710155444.png",
-    "Pasted image 20230710154408.png",
-    "Pasted image 20230710154241.png",
-    "Pasted image 20230709104704.png",
-    "Pasted image 20230709104542.png",
-    "Discrete Differential Geometry/Lecture 01.md",
-    "Discrete Differential Geometry",
-    "未命名.md"
+    "Discrete Differential Geometry"
   ]
 }
