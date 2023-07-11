@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 02--Mesh.md",
+                "file": "Lecture 01--Curvature.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson 02--Mesh.md",
+                "file": "Lecture 01--Curvature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesson 02--Mesh.md",
+                "file": "Lecture 01--Curvature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson 02--Mesh.md"
+                "file": "Lecture 01--Curvature.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "a5989082b397943d",
   "lastOpenFiles": [
+    "Lesson 02--Mesh.md",
     "image/Pasted image 20230711115237.png",
     "image/Pasted image 20230711115105.png",
     "image/Pasted image 20230711112409.png",
@@ -158,12 +159,10 @@
     "image/Pasted image 20230711110303.png",
     "image/Pasted image 20230711105746.png",
     "image/Pasted image 20230710160359.png",
-    "image/Pasted image 20230710160210.png",
     "image",
     "新建文件夹",
     "Lecture 01--Curvature.md",
     "Discrete-Differential-Geometry-Notes/Lesson 02--Mesh.md",
-    "Lesson 02--Mesh.md",
     "Discrete-Differential-Geometry-Notes/Lecture 01--Curvature.md",
     "Discrete-Differential-Geometry-Notes",
     "Discrete Differential Geometry"
