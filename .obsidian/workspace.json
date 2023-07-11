@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c113cff7db3fd63",
+            "id": "a5989082b397943d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete-Differential-Geometry-Notes/Lesson 02--Mesh.md",
+                "file": "Lesson 02--Mesh.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a5989082b397943d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete-Differential-Geometry-Notes/Lesson 02--Mesh.md",
+                "file": "Lesson 02--Mesh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete-Differential-Geometry-Notes/Lesson 02--Mesh.md",
+                "file": "Lesson 02--Mesh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete-Differential-Geometry-Notes/Lesson 02--Mesh.md"
+                "file": "Lesson 02--Mesh.md"
               }
             }
           }
@@ -154,20 +146,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7c113cff7db3fd63",
+  "active": "a5989082b397943d",
   "lastOpenFiles": [
-    "Discrete-Differential-Geometry-Notes/Lecture 01--Curvature.md",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230711105746.png",
+    "image/Pasted image 20230711115237.png",
+    "image/Pasted image 20230711115105.png",
+    "image/Pasted image 20230711112409.png",
+    "image/Pasted image 20230711112208.png",
+    "image/Pasted image 20230711111838.png",
+    "image/Pasted image 20230711111711.png",
+    "image/Pasted image 20230711110533.png",
+    "image/Pasted image 20230711110303.png",
+    "image/Pasted image 20230711105746.png",
+    "image/Pasted image 20230710160359.png",
+    "image/Pasted image 20230710160210.png",
+    "image",
+    "新建文件夹",
+    "Lecture 01--Curvature.md",
     "Discrete-Differential-Geometry-Notes/Lesson 02--Mesh.md",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230711115237.png",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230711115105.png",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230711112409.png",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230711112208.png",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230711111838.png",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230711111711.png",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230711110533.png",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230711110303.png",
-    "Discrete-Differential-Geometry-Notes/Pasted image 20230710160359.png",
+    "Lesson 02--Mesh.md",
+    "Discrete-Differential-Geometry-Notes/Lecture 01--Curvature.md",
     "Discrete-Differential-Geometry-Notes",
     "Discrete Differential Geometry"
   ]
